@@ -1,0 +1,4 @@
+/home/lxq/code/cpp/WebServer-master/build/Debug/WebServer/tests/CMakeFiles/HTTPClient.dir
+/home/lxq/code/cpp/WebServer-master/build/Debug/WebServer/base/tests/CMakeFiles/LoggingTest.dir
+/home/lxq/code/cpp/WebServer-master/build/Debug/WebServer/base/CMakeFiles/libserver_base.dir
+/home/lxq/code/cpp/WebServer-master/build/Debug/WebServer/CMakeFiles/WebServer.dir

@@ -1,0 +1,21 @@
+2023-04-11 13:11:34
+New connection from 127.0.0.1:45322 -- /home/lxq/code/cpp/WebServer-master/WebServer/Server.cpp:45
+2023-04-11 13:11:34
+Request:   -- /home/lxq/code/cpp/WebServer-master/WebServer/HttpData.cpp:160
+2023-04-11 13:11:34
+FD = 14, ****** -- /home/lxq/code/cpp/WebServer-master/WebServer/HttpData.cpp:196
+2023-04-11 13:11:36
+New connection from 127.0.0.1:45324 -- /home/lxq/code/cpp/WebServer-master/WebServer/Server.cpp:45
+2023-04-11 13:11:36
+Request: GET  HTTP/1.1 -- /home/lxq/code/cpp/WebServer-master/WebServer/HttpData.cpp:160
+2023-04-11 13:11:36
+FD = 14,GET  HTTP/1.1****** -- /home/lxq/code/cpp/WebServer-master/WebServer/HttpData.cpp:196
+2023-04-11 13:11:38
+New connection from 127.0.0.1:45326 -- /home/lxq/code/cpp/WebServer-master/WebServer/Server.cpp:45
+2023-04-11 13:11:38
+Request: GET / HTTP/1.1
+Host: 192.168.52.135:8888
+Content-Type: application/x-www-form-urlencoded
+Connection: Keep-Alive
+
+ -- /home/lxq/code/cpp/WebServer-master/WebServer/HttpData.cpp:160
